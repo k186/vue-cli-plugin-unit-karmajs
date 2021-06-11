@@ -73,5 +73,6 @@ module.exports = {
 
 ```
 
-[vue-cli-plugin-unit-karma]: https://github.com/davidwallacejackson/vue-cli-plugin-unit-karma
+
 [vue-cli-plugin-unit-karmajs]: https://github.com/tushararora/vue-cli-plugin-unit-karmajs
+[istanbul-instrumenter-loader]: https://github.com/webpack-contrib/istanbul-instrumenter-loader
