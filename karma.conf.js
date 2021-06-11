@@ -3,9 +3,9 @@ const merge = require('webpack-merge');
 
 module.exports = ( { webpackConfig, karmaOptions, watch } ) => {
   delete webpackConfig.entry;
-  webpackConfig = merge( webpackConfig, {
-    devtool: 'inline-source-map'
-  } );
+  // webpackConfig = merge( webpackConfig, {
+  //   devtool: 'inline-source-map'
+  // } );
 
   const preprocessors = {};
 

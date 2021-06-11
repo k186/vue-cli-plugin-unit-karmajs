@@ -1,7 +1,7 @@
 {
-  "name": "vue-cli-plugin-unit-karmajs",
-  "version": "1.0.1",
-  "description": "Karma unit testing plugin for vue-cli",
+  "name": "vue-cli-plugin-unit-karmajscli3",
+  "version": "1.0.0",
+  "description": "Karma unit testing plugin for vue-cli3",
   "keywords": [
     "vue",
     "vue-cli",
@@ -14,14 +14,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tushararora/vue-cli-plugin-unit-karmajs/"
+    "url": "https://github.com/k186/vue-cli-plugin-unit-karmajs/"
   },
   "scripts": {
     "test": "echo \"No test specified\""
   },
   "author": {
-    "name": "Tushar Arora",
-    "email": "tushararora.cs@gmail.com"
+    "name": "k186",
+    "email": "k1868548@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
